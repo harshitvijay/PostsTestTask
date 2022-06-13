@@ -1,0 +1,15 @@
+.home-container {
+  background-color: aquamarine;
+  min-height: 100vh;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cart {
+  border: 1px solid black;
+}
+.post-id {
+  cursor: pointer;
+}
